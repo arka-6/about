@@ -19,3 +19,16 @@
     margin-top: 20px;
     margin-bottom: 10px
 }
+
+.experience-list{
+    list-style-type: none;
+}
+
+
+.experience-list li div :first-child{
+    font-weight: 500;
+}
+
+.experience-list li div :last-child{
+    font-weight: 300;
+}
