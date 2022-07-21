@@ -1,3 +1,3 @@
 # About
 
-https://github.com/arka-6
+https://arka-6.github.io/about/
