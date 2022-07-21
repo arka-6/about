@@ -1,3 +1,9 @@
+.header{
+    padding: 40px;
+    background-color: #fca740;
+}
+
+
 .header-text {
     font-size: 70px;
     font-weight: 800;
