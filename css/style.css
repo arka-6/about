@@ -10,7 +10,6 @@
     font-weight: 600;
     margin-top: 30px;
     margin-bottom: 20px;
-    color: #f74904 ;
 }
 
 .header-text2 {
@@ -25,10 +24,10 @@
 }
 
 
-.experience-list li div :first-child{
+.experience-list li div :first-child {
     font-weight: 500;
 }
 
-.experience-list li div :last-child{
+.experience-list li div :last-child {
     font-weight: 300;
 }
