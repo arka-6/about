@@ -1,14 +1,32 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: #fca740;
+}
+
+h2{
+    color: #d813ff;
+    padding: 40px 20px;
+    background-color: #0ac9f8cc;
+}
+
 .header{
-    padding: 40px;
+    padding: 75px 20px;
+    color: #5b15ff;
     background-color: #fca740;
+}
+
+.header h1{
+    color: #000000
 }
 
 
 .header-text {
     font-size: 70px;
     font-weight: 800;
-    margin-top: 60px;
-    margin-bottom: 20px
+    margin: 0;
 }
 
 .header-text1 {
