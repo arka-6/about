@@ -7,9 +7,9 @@ h1{
 }
 
 h2{
-    color: #d813ff;
+    color: #d3ff11;
     padding: 40px 20px;
-    background-color: #0ac9f8cc;
+    background-color: #367dcf;
 }
 
 .header{
@@ -45,6 +45,7 @@ h2{
 
 .experience-list{
     list-style-type: none;
+    background-color: aquamarine;
 }
 
 
